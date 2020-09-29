@@ -13,6 +13,8 @@
 1>D
 <<<<<<< HEAD
 2>O
+3>A
 =======
 res1: fout g je denkt aan dick
 >>>>>>> c0d8049228bba87c7c367366b0b0505c3e1374a3
+
