@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 2>O
 3>A
+4>t
 res3: ;-; i dont want to talk about it
 =======
 res1: fout g je denkt aan dick
