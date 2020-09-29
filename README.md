@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|a|.|a|.|
+|.|a|t|a|t|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -16,6 +16,7 @@
 2>O
 3>A
 4>t
+res4: ffs
 res3: ;-; i dont want to talk about it
 =======
 res1: fout g je denkt aan dick
